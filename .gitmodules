@@ -7,3 +7,6 @@
 [submodule "RenderingPipeline/Dependencies/glm"]
 	path = RenderingPipeline/Dependencies/glm
 	url = https://github.com/g-truc/glm.git
+[submodule "RenderingPipeline/Dependencies/entt"]
+	path = RenderingPipeline/Dependencies/entt
+	url = https://github.com/skypjack/entt.git
