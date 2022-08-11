@@ -1,0 +1,9 @@
+[submodule "RenderingPipeline/Dependencies/glfw"]
+	path = RenderingPipeline/Dependencies/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "RenderingPipeline/Dependencies/glew"]
+	path = RenderingPipeline/Dependencies/glew
+	url = https://github.com/nigels-com/glew.git
+[submodule "RenderingPipeline/Dependencies/glm"]
+	path = RenderingPipeline/Dependencies/glm
+	url = https://github.com/g-truc/glm.git
